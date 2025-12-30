@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "もう君に会えない",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-30T06:49:18.668916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もう君に会えない",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_もう君に会えない_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう君に会えない",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_もう君に会えない_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
